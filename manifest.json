@@ -5,8 +5,10 @@
     "version": "1",
   
     // Recommended
-    "description": "A plain text description",
-    // "icons": {...},
+    "description": "Revert Twitter back to its previous, more sane and usable, form",
+     "icons": {
+         "128": "dove-emoji-1F54A.png"
+     },
 
     "permissions": [
         "webRequest",
